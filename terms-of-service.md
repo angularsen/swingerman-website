@@ -1,7 +1,7 @@
 # Terms of Service ("Terms")
 Last updated: August 01, 2018
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://angularsen.github.io/vr-swing-pages/ website (the "Service") operated by VR-Swing Website ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the VR Swing game on the Oculus Store (the "Service") operated by Larsen Entertainment ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
