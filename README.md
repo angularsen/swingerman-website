@@ -1,4 +1,4 @@
-## VR-Swing
+## VR Swing
 A VR game distributed on Oculus Store and Steam.
 
 Here are the legal documents.
