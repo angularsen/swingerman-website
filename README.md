@@ -12,3 +12,8 @@ Visit the store pages for more information.
 ## Documents
 - [Privacy policy](privacy-policy.md)
 - [Terms of Service](terms-of-service.md)
+
+## Contact
+Andreas Gullberg Larsen<br/>
+[oh.crap.studios@gmail.com](mailto:oh.crap.studios@gmail.com)<br/>
+Oh Crap Studios
