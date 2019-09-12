@@ -50,5 +50,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
 Andreas Gullberg Larsen<br/>
-oh.crap.studios@gmail.com<br/>
+[oh.crap.studios@gmail.com](mailto:oh.crap.studios@gmail.com)<br/>
 Oh Crap Studios
