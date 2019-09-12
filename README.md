@@ -3,6 +3,8 @@ This is the Super Meat Boy of Spider-Man experiences. A game for hard-core swing
 
 Visit the store pages for more information.
 
+![screenshot01](images/screenshot01_small.jpg)
+
 ## Steam Store
 https://store.steampowered.com/app/1156680/SwingerMan/
 
