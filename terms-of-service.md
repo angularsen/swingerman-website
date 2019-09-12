@@ -1,7 +1,7 @@
 # Terms of Service ("Terms")
-Last updated: August 01, 2018
+Last updated: September 12, 2019
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the VR Swing game (the "Service"), distributed on the Oculus Store and Steam, and operated by Larsen Entertainment ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Swinger-Man game (the "Service"), distributed on the Oculus Store and Steam, and operated by Oh Crap Studios ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -20,6 +20,6 @@ By continuing to access or use our Service after those revisions become effectiv
 ## Contact Us
 If you have any questions about these Terms, please contact us.
 
-Andreas Gullberg Larsen
-andreas.larsen84@gmail.com
-Larsen Entertainment
+Andreas Gullberg Larsen<br/>
+oh.crap.studios@gmail.com<br/>
+Oh Crap Studios
