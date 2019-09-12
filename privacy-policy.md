@@ -1,7 +1,7 @@
 # Privacy Policy
-Last updated: August 01, 2018
+Last updated: September 12, 2019
 
-Larsen Entertainment built the VR Swing GAME as a Commercial game distributed on Oculus Store and Steam. The Game is intended for personal entertainment and to be used as is.
+Oh Crap Studios built the Swinger-Man GAME as a Commercial game distributed on Oculus Store and Steam. The Game is intended for personal entertainment and to be used as is.
 
 This page is used to inform users of the Game regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Game.
 
@@ -50,5 +50,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
 Andreas Gullberg Larsen
-andreas.larsen84@gmail.com
-Larsen Entertainment
+oh.crap.studios@gmail.com
+Oh Crap Studios
