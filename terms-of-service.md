@@ -21,5 +21,5 @@ By continuing to access or use our Service after those revisions become effectiv
 If you have any questions about these Terms, please contact us.
 
 Andreas Gullberg Larsen<br/>
-oh.crap.studios@gmail.com<br/>
+[oh.crap.studios@gmail.com](mailto:oh.crap.studios@gmail.com)<br/>
 Oh Crap Studios
