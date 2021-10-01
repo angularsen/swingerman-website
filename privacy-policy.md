@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated: September 12, 2019
+Last updated: Oct 2, 2021
 
 Oh Crap Studios built the Swinger-Man GAME as a Commercial game distributed on Oculus Store and Steam. The Game is intended for personal entertainment and to be used as is.
 
@@ -11,13 +11,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our Game, I may require you to provide us with certain personally identifiable information, including but not limited to Oculus username. The information that I request is retained on your device and is not collected by me in any way
+For a better experience, while using our Game, I may require you to provide us with certain personally identifiable information, including but not limited to Oculus username.
 
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
 - [Unity Analytics](https://unity3d.com/legal/privacy-policy)
+- [PlayFab](https://playfab.com/terms/)
 
 ## Log Data
 
