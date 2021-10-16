@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated: Oct 2, 2021
+Last updated: Oct 16, 2021
 
 Oh Crap Studios built the Swinger-Man GAME as a Commercial game distributed on Oculus Store and Steam. The Game is intended for personal entertainment and to be used as is.
 
