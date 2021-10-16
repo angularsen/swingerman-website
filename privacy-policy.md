@@ -42,6 +42,12 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
+## Request to delete data
+
+Contact us by email on [oh.crap.studios@gmail.com](mailto:oh.crap.studios@gmail.com) to request deletion of user data.
+Provide your Steam or Oculus username to allow us to locate and delete your data.
+We will accomodate the request within 30 days.
+
 ## Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
